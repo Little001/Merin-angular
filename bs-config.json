@@ -1,0 +1,9 @@
+{
+    "server": {
+      "baseDir": "bin",
+      "routes": {
+        "/node_modules": "node_modules"
+      }
+    }
+  }
+  
