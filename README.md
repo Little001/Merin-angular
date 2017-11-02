@@ -1,2 +1,2 @@
 # Merin-angular
-Base framework for forntend developers, using Angular2, TypeScript
+### Base framework for frontend developers, using Angular2, TypeScript
